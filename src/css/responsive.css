@@ -1,0 +1,16 @@
+@media(max-width: 1200px) {
+    body {
+        align-items: start;
+    }
+    body main {
+        width: 375px;
+        height: 667px;
+        background-position: 125% 195%, -24% -96%;
+    }
+    body main .card-perfil .div-imgs {
+        width: 327px;
+    }
+    body main .card-perfil .div-imgs .img-victor {
+        margin-top: 27%;
+    }
+}
