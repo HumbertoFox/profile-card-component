@@ -52,7 +52,7 @@ body main .card-perfil .div-cite-name {
     justify-content: center;
     width: 100%;
     padding-top: 72px;
-    border-bottom: 1px solid var(--Dark-gray);
+    border-bottom: .1px solid var(--Dark-gray);
 }
 body main .card-perfil .div-info {
     width: 100%;
